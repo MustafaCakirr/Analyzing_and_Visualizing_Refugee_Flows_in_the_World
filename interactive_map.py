@@ -1,8 +1,5 @@
-﻿from matplotlib import interactive
 import pandas as pd 
-import numpy as np 
 import geopandas as gpd
-import matplotlib.pyplot as plt
 import folium
 
 def interactive_map_html(merged,data1=None,data2 = None):  
