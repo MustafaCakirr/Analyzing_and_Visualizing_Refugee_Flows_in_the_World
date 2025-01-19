@@ -3,3 +3,4 @@
 *.py linguist-detectable=true
 *.html linguist-detectable=false
 *.md linguist-detectable=false
+*.sql linguist-detectable=true
