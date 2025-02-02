@@ -30,9 +30,11 @@
 
 - **Functionality:**
   - Generates a comprehensive refugee density map covering all years. Analyzes all records in the database to show total refugee density per country.
+   ![Image](https://github.com/user-attachments/assets/d665af31-4546-4360-9474-2f8f30f6b770)
 - **Outputs:**
   - Static heatmap using Matplotlib
   - Interactive HTML map using Folium
+    ![Image](https://github.com/user-attachments/assets/622e9a0c-0d48-474b-ba08-7bf8a4627daf)
     
 ### 2. Time-Based Analysis
 - from world_data_visualization import world_data_visiualizer
@@ -41,6 +43,7 @@
 
 - **Functionality:**
   - Analyzes refugee movements during specified year range. Generates time series charts and year-specific colored maps.
+   ![Image](https://github.com/user-attachments/assets/00a657a9-609b-44ae-9600-bb167ee80142)
 - **Outputs:**
   - Annual change chart (Matplotlib)
   - Interactive map tailored to selected year range
@@ -52,6 +55,8 @@
   
 - **Functionality:**
   - Performs detailed analysis for specific countries and year ranges. Shows both refugee distribution and temporal changes  for target countries.
+    ![Image](https://github.com/user-attachments/assets/4fd88d93-477c-45ea-a32c-eeb79ab26b40)
 - **Outputs:**
   - Country-specific heatmap
   - Annual change chart
+![Image](https://github.com/user-attachments/assets/92ac89f6-1f23-41ea-93cb-7468354d4381)
