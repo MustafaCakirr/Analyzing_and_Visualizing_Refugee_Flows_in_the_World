@@ -44,6 +44,7 @@
 - **Outputs:**
   - Annual change chart (Matplotlib)
   - Interactive map tailored to selected year range
+   ![Image](https://github.com/user-attachments/assets/2cd04057-fa5f-4fd7-af00-c46c6b64c4a8)
 
 ### 3. Country-Specific Filtering
 - from filtered_refugee_class import filtered_year_and_country
